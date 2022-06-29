@@ -1,0 +1,62 @@
+[
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\BullCowCartridge.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\BullCowCartridge.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\BullCowGame.Build.cs",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\BullCowGame.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\BullCowGame.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\BullCowGameGameModeBase.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\BullCowGameGameModeBase.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\Console\\\\Cartridge.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\Console\\\\Cartridge.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\Console\\\\Terminal.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\Console\\\\Terminal.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Anna\\\\UEProject1\\\\BullCowGame-starter-kit\\\\BullCowGame-starter-kit\\\\Source\\\\BullCowGame\\\\HiddenWords.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Source"
+    }
+]

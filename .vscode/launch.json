@@ -1,0 +1,123 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "BullCowGame (Debug)",
+            "request": "launch",
+            "preLaunchTask": "BullCowGame Win64 Debug Build",
+            "program": "C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+            "args": [],
+            "cwd": "C:\\Users\\Ann\\Documents\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "BullCowGame (DebugGame)",
+            "request": "launch",
+            "preLaunchTask": "BullCowGame Win64 DebugGame Build",
+            "program": "C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+            "args": [],
+            "cwd": "C:\\Users\\Ann\\Documents\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "BullCowGame (Development)",
+            "request": "launch",
+            "preLaunchTask": "BullCowGame Win64 Development Build",
+            "program": "C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\Binaries\\Win64\\UE4.exe",
+            "args": [],
+            "cwd": "C:\\Users\\Ann\\Documents\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "BullCowGame (Shipping)",
+            "request": "launch",
+            "preLaunchTask": "BullCowGame Win64 Shipping Build",
+            "program": "C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+            "args": [],
+            "cwd": "C:\\Users\\Ann\\Documents\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "BullCowGame (Test)",
+            "request": "launch",
+            "preLaunchTask": "BullCowGame Win64 Test Build",
+            "program": "C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\Binaries\\Win64\\UE4-Win64-Test.exe",
+            "args": [],
+            "cwd": "C:\\Users\\Ann\\Documents\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "BullCowGameEditor (Debug)",
+            "request": "launch",
+            "preLaunchTask": "BullCowGameEditor Win64 Debug Build",
+            "program": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+            "args": [
+                "C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\BullCowGame.uproject"
+            ],
+            "cwd": "C:\\Users\\Ann\\Documents\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "BullCowGameEditor (DebugGame)",
+            "request": "launch",
+            "preLaunchTask": "BullCowGameEditor Win64 DebugGame Build",
+            "program": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+            "args": [
+                "C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\BullCowGame.uproject"
+            ],
+            "cwd": "C:\\Users\\Ann\\Documents\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "BullCowGameEditor (Development)",
+            "request": "launch",
+            "preLaunchTask": "BullCowGameEditor Win64 Development Build",
+            "program": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+            "args": [
+                "C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\BullCowGame.uproject"
+            ],
+            "cwd": "C:\\Users\\Ann\\Documents\\UE_4.27",
+            "stopAtEntry": false,
+            "type": "cppvsdbg",
+            "visualizerFile": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis",
+            "console": "newExternalWindow"
+        },
+        {
+            "name": "Generate Project Files",
+            "type": "clr",
+            "request": "launch",
+            "program": "C:\\Users\\Ann\\Documents\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+            "console": "externalTerminal",
+            "args": [
+                "-projectfiles",
+                "-vscode",
+                "-project=C:\\Anna\\UEProject1\\BullCowGame-starter-kit\\BullCowGame-starter-kit\\BullCowGame.uproject",
+                "-game",
+                "-engine"
+            ],
+            "internalConsoleOptions": "openOnSessionStart",
+            "cwd": "C:\\Users\\Ann\\Documents\\UE_4.27"
+        }
+    ]
+}
